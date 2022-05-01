@@ -1,6 +1,6 @@
 ## Tetris
 
-A playable tetris demo powered by Python and Pygame, with high score saving, proper gameplay, with colors, and tons of object oriented programming!
+A playable tetris game powered by Python and Pygame, with high score saving, proper gameplay, with colors, and tons of object oriented programming!
 
 Sample Image:
 
