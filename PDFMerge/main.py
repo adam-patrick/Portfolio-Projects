@@ -8,5 +8,5 @@ merger = PdfMerger()
 for pdf in pdfs:
     merger.append(pdf)
 
-merger.write("result.pdf")   # merged pdf file is names this. just rename this whatever you want.
+merger.write("result.pdf")   # Merged pdf file is named this. just rename this whatever you want.
 merger.close()
